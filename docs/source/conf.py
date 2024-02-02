@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'EcoSalinity'
+copyright = '2024, Swaranjit'
+author = 'Swaranjit'
 
 release = '0.1'
 version = '0.1.0'
